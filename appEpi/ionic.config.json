@@ -1,0 +1,7 @@
+{
+  "name": "epidemiologia",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
